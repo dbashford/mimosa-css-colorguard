@@ -5,6 +5,8 @@ mimosa-css-colorguard
 
 This module will run [css-colorguard](https://github.com/SlexAxton/css-colorguard) over your compiled/copied CSS files.
 
+For more about Mimosa, [check out its website](http://mimosa.io).
+
 Note: While Mimosa version `2.2.16` isn't required, it is recommended as the minimum version of Mimosa for this module.
 
 ## Usage

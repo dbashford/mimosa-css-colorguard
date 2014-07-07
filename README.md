@@ -5,6 +5,8 @@ mimosa-css-colorguard
 
 This module will run [css-colorguard](https://github.com/SlexAxton/css-colorguard) over your compiled/copied CSS files.
 
+Note: While Mimosa version `2.2.16` isn't required, it is recommended as the minimum version of Mimosa for this module.
+
 ## Usage
 
 Add `'css-colorguard'` to your list of modules.  That's all!  Mimosa will install the module for you when you start `mimosa watch` or `mimosa build`.

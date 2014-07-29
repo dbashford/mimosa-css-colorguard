@@ -1,6 +1,6 @@
 {
   "name": "mimosa-css-colorguard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/dbashford/mimosa-css-colorguard",
   "author": "David Bashford",
   "description": "A Mimosa module to detect when colors in your CSS are closer than they ought to be",
@@ -15,7 +15,7 @@
     "url": "https://github.com/dbashford/mimosa-css-colorguard"
   },
   "dependencies": {
-    "colorguard": "0.1.3"
+    "colorguard": "0.1.7"
   },
   "keywords": [
     "mimosa",
